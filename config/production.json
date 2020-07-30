@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "jwtSecret": "secretwithoutsugar",
+  "baseUrl": "http://localhost:8080",
+  "mongoURL": "mongodb+srv://yehorlebed:root@cluster0.2wn4o.azure.mongodb.net/app?retryWrites=true&w=majority"
+}

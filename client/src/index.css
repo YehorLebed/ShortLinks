@@ -1,0 +1,9 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+.auth-page button:first-of-type {
+  margin-right: 20px;
+}
+
+.create-link {
+  padding: 2rem 0;
+}
